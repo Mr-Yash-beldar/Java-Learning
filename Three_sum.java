@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-//Author--Yashodip Beldar
-//Date--13.09.2022
-//Purpose--Addition of three numbers in java
+// Author--Yashodip Beldar
+// Date--13.09.2022
+// Purpose--Addition of three numbers in java
 
 public class Three_sum {
     public static void main(String[] args) {
