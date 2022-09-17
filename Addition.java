@@ -1,7 +1,9 @@
 import java.util.Scanner;
+
 //Author--Yashodip Beldar
 //Date--12.09.2022
 //Purpose--Addition of two numbers in Java by Taking User input
+
 class Addition {
      public static void main(String[] args) {
      System.out.println("\nHi My Name is Yash\n");
@@ -16,6 +18,5 @@ class Addition {
      int c;
      c=a+b;
      System.out.println(c);
-
     }
 }
