@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 //Author--Yashodip Beldar
 //Date--17-09-2022
@@ -7,15 +7,15 @@ import java.util.Scanner;
 public class array_in_java {
     public static void main(String[] args) {
         System.out.println("\nHi My name is Yashodip Beldar\n");
-        Scanner input = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         int n;
         System.out.println("Enter limit of array");
-        n = input.nextInt();
+        n = sc.nextInt();
         int[] arr = new int[10];
         System.out.println("Enter "+n+" elements in array");
         for(int i=0;i<n;i++)
         {
-            arr[i]=input.nextInt();
+            arr[i]=sc.nextInt();
         }
         System.out.println("Elements of array are as follows");
         for(int i=0;i<n;i++)
