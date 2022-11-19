@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //Author--Yashodip Beldar
 //Date--12.09.2022
 //Purpose--Addition of two numbers in Java by Taking User input
