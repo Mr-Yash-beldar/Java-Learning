@@ -13,5 +13,6 @@ public class Kmtomiles {
         km=sc.nextFloat();
         mile=km*0.621f;
         System.out.println(km+" KM is equal to "+mile+ " Miles");
+        sc.close();
     }
 }
