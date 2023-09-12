@@ -20,5 +20,6 @@ public class FloatArray {
             sum += num[i];
         }
         System.out.printf("The sum of %d float numbers is %.2f ", n, sum);
+        scan.close();
     }
 }
