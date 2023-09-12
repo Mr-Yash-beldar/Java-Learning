@@ -12,5 +12,6 @@ public class iflearning {
             System.out.println("Number is Eleven");
         else 
             System.out.println("Number is not Eleven");
+            sc.close();
     }
 }
