@@ -11,5 +11,6 @@ public class TabelOfNumber {
         for (int i = 1; i <= 10; i++) {
             System.out.printf("%dx%d = %d\n", i, n, (i * n));
         }
+        scan.close();
     }
 }
