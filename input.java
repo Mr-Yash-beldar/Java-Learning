@@ -15,5 +15,6 @@ public class input {
     System.out.println(c);
     System.out.println(b);
     System.out.println(a);
+    input.close();
 }
 }
