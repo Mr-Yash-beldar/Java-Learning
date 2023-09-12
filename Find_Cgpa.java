@@ -16,6 +16,6 @@ class Find_Cgpa {
         // float f = sc.nextInt();
         float cgpa = (a + b + c + d + e ) / 50;
         System.out.println("Your CGPA is "+cgpa);
-
+        sc.close();
     }
 }
