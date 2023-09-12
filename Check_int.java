@@ -9,8 +9,8 @@ public class Check_int {
         System.out.println("\nHi My name is Yashodip Beldar\n");
         System.out.println("Enter your number");
         Scanner sc = new Scanner(System.in);
-        System.out.println(sc.hasNextInt());
-
+                System.out.println(sc.hasNextInt());
+        sc.close();
     }
 
 }
