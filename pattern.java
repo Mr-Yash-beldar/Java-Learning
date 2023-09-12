@@ -14,5 +14,6 @@ public class pattern {
                 n--;
                 System.out.print("\n");
         }
+        scan.close();
     }
 }
