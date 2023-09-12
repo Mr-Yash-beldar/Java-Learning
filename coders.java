@@ -20,6 +20,6 @@ public class coders {
     //   System.out.println(name);
     //  System.out.println(b);
     //  System.out.println(a);
-
+    input.close();
     }
 }
