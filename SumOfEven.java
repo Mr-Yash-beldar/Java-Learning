@@ -16,6 +16,6 @@ public class SumOfEven {
                 i++;
         }
         System.out.printf("The sum of %d even numbers is %d", n, sum);
+        scan.close();
     }
-
 }
