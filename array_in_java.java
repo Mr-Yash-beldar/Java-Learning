@@ -22,5 +22,7 @@ public class array_in_java {
         {
            System.out.println(arr[i]);
         }
+        
+    sc.close();
     }
 }
