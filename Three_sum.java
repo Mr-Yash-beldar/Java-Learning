@@ -14,6 +14,7 @@ public class Three_sum {
         int c = input.nextInt();
         int d = a + b + c;
         System.out.println("The sum of these numbers is " + d);
+        input.close();
     }
 
 }
