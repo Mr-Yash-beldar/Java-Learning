@@ -17,5 +17,7 @@ class Addition {
      int c;
      c=a+b;
      System.out.println(c);
+     input.close();
     }
+
 }
